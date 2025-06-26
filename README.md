@@ -1,6 +1,6 @@
 # 📊 Data Professional Survey Breakdown – Power BI Project
 
-## 📌 Overview
+## Overview
 This Power BI dashboard analyzes responses from a dataset of over 600 survey takers in the data profession. It provides a comprehensive breakdown of:
 - Geographic distribution
 - Average salary by job title
@@ -8,25 +8,25 @@ This Power BI dashboard analyzes responses from a dataset of over 600 survey tak
 - Perceived difficulty of entering the field
 - Satisfaction with work-life balance and salary
 
-## 🎯 Key Highlights
-- 🌍 **Treemap** showing countries of survey participants
-- 💼 **Bar chart** for average salaries across data roles (Data Scientist, Analyst, Engineer, etc.)
-- 💬 **Doughnut charts** to represent difficulty levels and satisfaction
-- 📈 **Bar chart** for top programming languages (Python, R, SQL, etc.)
-- 📊 **Gauge visuals** to represent average ratings (Work-life balance and salary)
+## Key Highlights
+- **Treemap** showing countries of survey participants
+- **Bar chart** for average salaries across data roles (Data Scientist, Analyst, Engineer, etc.)
+- **Doughnut charts** to represent difficulty levels and satisfaction
+- **Bar chart** for top programming languages (Python, R, SQL, etc.)
+- **Gauge visuals** to represent average ratings (Work-life balance and salary)
 
-## ⚙ Tools & Skills Used
+## Tools & Skills Used
 - Power BI Desktop
 - Power Query Editor for data cleaning
 - DAX for custom calculations and aggregations
 - Interactive filtering and drill-down visuals
 
-## 📁 Files Included
+## Files Included
 - `DataProfessionalSurvey.pbix` – Power BI report file
 - `dashboard-screenshot.png` – Image preview of the dashboard
 - Excel File - Raw Data
 
-## 🧠 What I Learned
+## What I Learned
 - Designing clean, executive-style dashboards
 - Using multiple chart types effectively
 - Building intuitive slicers and category breakdowns
