@@ -32,7 +32,7 @@ This Power BI dashboard analyzes responses from a dataset of over 600 survey tak
 - Building intuitive slicers and category breakdowns
 - Applying DAX for calculated fields
 
-## 👨‍💻 Tutorial Reference
+## Tutorial Reference
 This project is based on the **Alex The Analyst Power BI Final Project**.  
 [Watch the Tutorial on YouTube]
 
